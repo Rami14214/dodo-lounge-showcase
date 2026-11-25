@@ -8,9 +8,9 @@ The studio used to take every appointment through Instagram messages. I designed
 
 ## Screenshots
 
-| Home | Booking | Staff dashboard |
-| --- | --- | --- |
-| ![Home](screenshots/home.png) | ![Booking](screenshots/booking.png) | ![Dashboard](screenshots/dashboard.png) |
+| Home (3D polish bottle with a shade picker) | Booking (Google sign-in) |
+| --- | --- |
+| ![Home](screenshots/home.jpg) | ![Booking](screenshots/booking.jpg) |
 
 ## Stack
 
